@@ -1,8 +1,8 @@
 <div align="center">
 
-# ¡Hola! Soy May Salazar 👋
+# Hola! Soy May Salazar ??
 
-### Ingeniero en Sistemas · Instructor de Python · Apasionado por la tecnología y la enseñanza
+### Ingeniero en Sistemas  Instructor de Python  Apasionado por la tecnologa y la enseanza
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysalazar16)
 [![GitHub followers](https://img.shields.io/github/followers/maysalazar16?style=flat-square&color=181717&logo=github&logoColor=white&label=Followers)](https://github.com/maysalazar16)
@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Stack tecnológico
+###  Stack tecnolgico
 
 <div align="center">
 
@@ -28,47 +28,22 @@
 
 ---
 
-### 🚀 Sobre mí
+### ?? Sobre m
 
-- 🎓 Ingeniero en Sistemas, instructor de Python en el **SENA**
-- 💻 Amo programar y compartir conocimientos con otros desarrolladores
-- 🌱 Actualmente construyendo **FEDI-CLÍNICA**, un sistema clínico integral (React + Django REST)
-- 📍 Cali, Colombia
-- ⚡ Dato curioso: enseño lo que aprendo — la mejor forma de dominar algo es explicárselo a alguien más
-
----
-
-### 📌 Proyectos destacados
-
-<div align="center">
-
-<a href="https://github.com/maysalazar16/FEDI-CLINICA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maysalazar16&repo=FEDI-CLINICA&theme=default" />
-</a>
-<a href="https://github.com/maysalazar16/soluciones_tecnologicas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maysalazar16&repo=soluciones_tecnologicas&theme=default" />
-</a>
-<a href="https://github.com/maysalazar16/juegos-PYTHON">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maysalazar16&repo=juegos-PYTHON&theme=default" />
-</a>
-<a href="https://github.com/maysalazar16/SENA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maysalazar16&repo=SENA&theme=default" />
-</a>
-
-</div>
+- ?? Ingeniero en Sistemas, instructor de Python en el **SENA**
+- ?? Amo programar y compartir conocimientos con otros desarrolladores
+-  Actualmente construyendo **FEDI-CLÍNICA**, un sistema clínico integral (React + Django REST)
+-  Cali, Colombia
+-  Dato curioso: enseño lo que aprendo [G la mejor forma de dominar algo es explicárselo a alguien más
 
 ---
 
-### 📊 Estadísticas de GitHub
+###  Proyectos destacados
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maysalazar16&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysalazar16&layout=compact&theme=default&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maysalazar16&theme=default&hide_border=true" />
-
-</div>
+- 🏥 **[FEDI-CLINICA](https://github.com/maysalazar16/FEDI-CLINICA)** — Sistema clínico integral (React + Django REST + PostgreSQL)
+- 💡 **[soluciones_tecnologicas](https://github.com/maysalazar16/soluciones_tecnologicas)** — Proyecto de soluciones tecnológicas en Python
+- 🎮 **[juegos-PYTHON](https://github.com/maysalazar16/juegos-PYTHON)** — Juegos desarrollados en Python
+- 📚 **[SENA](https://github.com/maysalazar16/SENA)** — Ejercicios y material de Python
 
 ---
 
