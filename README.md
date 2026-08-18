@@ -21,19 +21,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maysalazar16&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysalazar16&layout=compact&theme=dark&hide_border=true" height="165" alt="Lenguajes más usados" />
-
-<sub>Si estas tarjetas no cargan, es un problema temporal del servicio gratuito — recarga la página en unos minutos.</sub>
-
-</div>
-
----
-
 ### 🚀 Sobre mí
 
 - 🎓 Ingeniero en Sistemas, instructor de Python en el **SENA**
