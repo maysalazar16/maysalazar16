@@ -41,7 +41,7 @@
 ### 📌 Proyectos destacados
 
 - 🏥 **[FEDI-CLINICA](https://github.com/maysalazar16/FEDI-CLINICA)** — Sistema clínico integral (React + Django REST + PostgreSQL)
-- 🪪 **[carnet_flask](https://github.com/maysalazar16/carnet_flask)** — Sistema de carnetización (en desarrollo)
+- 🪪 **[carnet_flask](https://github.com/maysalazar16/carnet_flask)** — Sistema de carnetización · Flask, SQLAlchemy, Pillow/OpenCV/rembg, Pandas, generación de QR
 - 🌐 **[pagina.github.oi](https://github.com/maysalazar16/pagina.github.oi)** — Mi página personal en GitHub Pages
 - 👥 **[SENA](https://github.com/maysalazar16/SENA)** — Proyectos de trabajo en grupo con el SENA
 
