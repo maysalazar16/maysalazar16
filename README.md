@@ -15,14 +15,20 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=py,js,react,django,html,css,postgres,git&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maysalazar16&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysalazar16&layout=compact&theme=dark&hide_border=true" height="165" alt="Lenguajes más usados" />
+
+<sub>Si estas tarjetas no cargan, es un problema temporal del servicio gratuito — recarga la página en unos minutos.</sub>
 
 </div>
 
