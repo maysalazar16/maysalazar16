@@ -28,15 +28,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=000000" height="40" alt="flask logo" />
+  <img src="https://img.shields.io/badge/-white?style=flat-square&logo=flask&logoColor=000000" height="40" alt="flask logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=F05032" height="40" alt="git logo" />
+  <img src="https://img.shields.io/badge/-white?style=flat-square&logo=git&logoColor=F05032" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=181717" height="40" alt="github logo" />
+  <img src="https://img.shields.io/badge/-white?style=flat-square&logo=github&logoColor=181717" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=4479A1" height="40" alt="mysql logo" />
+  <img src="https://img.shields.io/badge/-white?style=flat-square&logo=mysql&logoColor=4479A1" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
