@@ -40,6 +40,20 @@
 
 ---
 
+### 🐍 Actividad reciente
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maysalazar16/maysalazar16/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maysalazar16/maysalazar16/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/maysalazar16/maysalazar16/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ### 📫 Contáctame
 
 <div align="center">
