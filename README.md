@@ -15,7 +15,9 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=py,js,react,django,html,css,postgres,git&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,js,react,django,html,css,java,cs&perline=8&theme=dark)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,nodejs,vscode&perline=8&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -47,7 +49,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maysalazar16/maysalazar16/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maysalazar16/maysalazar16/output/github-contribution-grid-snake.svg" />
-  <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/maysalazar16/maysalazar16/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/maysalazar16/maysalazar16/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
