@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hola! Soy May Salazar ??
+# ¡Hola! Soy May Salazar 👋
 
-### Ingeniero en Sistemas  Instructor de Python  Apasionado por la tecnologa y la enseanza
+### Ingeniero en Sistemas · Instructor de Python · Apasionado por la tecnología y la enseñanza
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysalazar16)
 [![GitHub followers](https://img.shields.io/github/followers/maysalazar16?style=flat-square&color=181717&logo=github&logoColor=white&label=Followers)](https://github.com/maysalazar16)
@@ -11,7 +11,7 @@
 
 ---
 
-###  Stack tecnolgico
+### 🛠️ Stack tecnológico
 
 <div align="center">
 
@@ -28,17 +28,17 @@
 
 ---
 
-### ?? Sobre m
+### 🚀 Sobre mí
 
-- ?? Ingeniero en Sistemas, instructor de Python en el **SENA**
-- ?? Amo programar y compartir conocimientos con otros desarrolladores
--  Actualmente construyendo **FEDI-CLÍNICA**, un sistema clínico integral (React + Django REST)
--  Cali, Colombia
--  Dato curioso: enseño lo que aprendo [G la mejor forma de dominar algo es explicárselo a alguien más
+- 🎓 Ingeniero en Sistemas, instructor de Python en el **SENA**
+- 💻 Amo programar y compartir conocimientos con otros desarrolladores
+- 🌱 Actualmente construyendo **FEDI-CLÍNICA**, un sistema clínico integral (React + Django REST)
+- 📍 Cali, Colombia
+- ⚡ Dato curioso: enseño lo que aprendo — la mejor forma de dominar algo es explicárselo a alguien más
 
 ---
 
-###  Proyectos destacados
+### 📌 Proyectos destacados
 
 - 🏥 **[FEDI-CLINICA](https://github.com/maysalazar16/FEDI-CLINICA)** — Sistema clínico integral (React + Django REST + PostgreSQL)
 - 💡 **[soluciones_tecnologicas](https://github.com/maysalazar16/soluciones_tecnologicas)** — Proyecto de soluciones tecnológicas en Python
