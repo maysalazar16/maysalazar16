@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">¡Hola! Soy Mairon Salazar 👋</h1>
+<h1 data-importer="text" align="center">¡Hola! Soy Mairon Salazar 👋</h1>
 
 ###
 
@@ -18,8 +18,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -30,10 +28,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/-white?style=flat-square&logo=flask&logoColor=000000" height="40" alt="flask logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/-white?style=flat-square&logo=git&logoColor=F05032" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/-white?style=flat-square&logo=github&logoColor=181717" height="40" alt="github logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/-white?style=flat-square&logo=mysql&logoColor=4479A1" height="40" alt="mysql logo" />
@@ -43,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-white?style=flat-square&logo=github&logoColor=181717" height="40" alt="github logo" />
 </div>
 
 ###
@@ -57,7 +53,7 @@
 
 ###
 
-<p data-importer="text" align="left">🚀 Sobre mí<br>🎓 Ingeniero en Sistemas, instructor de Python en el SENA<br>💻 Amo programar y compartir conocimientos con otros desarrolladores<br>🌱 Actualmente construyendo FEDI-CLÍNICA, un sistema clínico integral (React + Django REST)<br>📍 Cali, Colombia<br>⚡ Dato curioso: enseño lo que aprendo — la mejor forma de dominar algo es explicárselo a alguien más</p>
+<h4 data-importer="text" align="left">🚀 Sobre mí<br>🎓 Ingeniero en Sistemas, instructor de Python en el SENA<br>💻 Amo programar y compartir conocimientos con otros desarrolladores<br>🌱 Actualmente construyendo FEDI-CLÍNICA, un sistema clínico integral (React + Django REST)<br>📍 Cali, Colombia<br>⚡ Dato curioso: enseño lo que aprendo — la mejor forma de dominar algo es explicárselo a alguien más</h4>
 
 ###
 
@@ -66,9 +62,20 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maysalazar16/maysalazar16/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maysalazar16/maysalazar16/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maysalazar16/maysalazar16/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maysalazar16/maysalazar16/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maysalazar16/maysalazar16/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maysalazar16/maysalazar16/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/mairon-salazar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://maysalazar16.github.io/pagina.github.oi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
+  </a>
+</div>
 
 ###

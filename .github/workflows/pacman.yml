@@ -1,4 +1,4 @@
-name: Generar grafico Bomberman
+name: Generar grafico Galaga
 
 on:
   schedule:
@@ -19,7 +19,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: maysalazar16
-          games: 'bomberman'
+          games: 'galaga'
       - name: Publicar en la rama pacman-output
         uses: crazy-max/ghaction-github-pages@v4
         with:
